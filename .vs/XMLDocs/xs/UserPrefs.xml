@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{005DE162-76AC-4EE4-9DD5-79D1EEED51AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XMLDocs/Program.cs">
+    <Files>
+      <File FileName="XMLDocs/Program.cs" Line="15" Column="1" />
+      <File FileName="XMLDocs/Models/Student.cs" Line="50" Column="36" />
+      <File FileName="XMLDocs/Models/Imaging.cs" />
+      <File FileName="XMLDocs/Models/Constants.cs" />
+      <File FileName="XMLDocs/Models/Utilities/FTP.cs" Line="189" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XMLDocs" expanded="True">
+            <Node name="XMLDocs" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Content" expanded="True">
+                <Node name="Data" expanded="True" selected="True" />
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Utilities" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>image</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XMLDocs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
